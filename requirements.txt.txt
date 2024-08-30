@@ -1,0 +1,15 @@
+pandas
+numpy
+opencv-python
+ultralytics 
+deepface 
+json 
+os 
+tensorflow
+pytorch 
+time 
+sys
+copy 
+matplotlib 
+math 
+datetime

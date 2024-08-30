@@ -42,6 +42,9 @@ pip install -r requirements.txt
 python IntegratedArchitecture.py
 ```
 
+## Research Work
+Paper link for the research work carried out: https://ieeexplore.ieee.org/document/10616763
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
